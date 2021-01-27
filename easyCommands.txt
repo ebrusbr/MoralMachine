@@ -1,0 +1,15 @@
+ssh nsoezbir@nutmeg.eng.unimelb.edu.au
+
+scp Audit.java EthicalEngine.java InvalidCharacteristicException.java InvalidDataFormatException.java InvalidInputException.java ethicalengine ethicalengine.txt welcome.ascii nsoezbir@nutmeg.eng.unimelb.edu.au:/storage4/pool4/students/n/nsoezbir/COMP90041/final
+
+scp Animal.java Character.java MyPair.java Person.java Scenario.java ScenarioGenerator.java nsoezbir@nutmeg.eng.unimelb.edu.au:/storage4/pool4/students/n/nsoezbir/COMP90041/final/ethicalengine
+
+scp -r ethicalengine nsoezbir@nutmeg.eng.unimelb.edu.au:/storage4/pool4/students/n/nsoezbir/COMP90041/final
+
+scp Person.java nsoezbir@nutmeg.eng.unimelb.edu.au:/storage4/pool4/students/n/nsoezbir/COMP90041/final/ethicalengine
+
+scp Audit.java nsoezbir@nutmeg.eng.unimelb.edu.au:/storage4/pool4/students/n/nsoezbir/COMP90041/final
+
+scp EthicalEngine.java nsoezbir@nutmeg.eng.unimelb.edu.au:/storage4/pool4/students/n/nsoezbir/COMP90041/final
+
+scp ScenarioGenerator.java nsoezbir@nutmeg.eng.unimelb.edu.au:/storage4/pool4/students/n/nsoezbir/COMP90041/final

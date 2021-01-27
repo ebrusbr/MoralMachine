@@ -1,0 +1,1 @@
+java EthicalEngine -i -r custom.log -c configCustom10.csv <configCustom10_input.txt > displayedMessage.txt
